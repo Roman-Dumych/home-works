@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.father{
+    width: 100%;
+    height: auto;
+    background: silver;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 204px;
+    height: 150px;
+    background: blueviolet;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    width: 650px;
+    height:250px ;
+}
+
+.box2{
+    width: 650px;
+    height: 150px;
+    background: blueviolet;
+}
+
