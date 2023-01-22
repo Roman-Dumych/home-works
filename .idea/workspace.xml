@@ -78,7 +78,7 @@
       <workItem from="1674392236958" duration="7521000" />
       <workItem from="1674404195670" duration="5000" />
       <workItem from="1674404202161" duration="5626000" />
-      <workItem from="1674412570889" duration="4804000" />
+      <workItem from="1674412570889" duration="6735000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674411581081</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="home work2&#10;Друга частина завдання">
+      <created>1674417589000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674417589000</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +141,7 @@
     <MESSAGE value="home work1" />
     <MESSAGE value="home work2" />
     <MESSAGE value="home work2&#10;Зробив першу частину завдання" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work2&#10;Зробив першу частину завдання" />
+    <MESSAGE value="home work2&#10;Друга частина завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work2&#10;Друга частина завдання" />
   </component>
 </project>
