@@ -1,0 +1,52 @@
+.father1{
+    width: 100%;
+    height:auto;
+    background: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.box{
+    width: 200px;
+    height: 400px;
+    background: white;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blueviolet;
+}
+
+.box1{
+    width:100px;
+    height: 50px;
+    background: silver;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box2{
+    width:100px;
+    height: 50px;
+    background: silver;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box3{
+    width:100px;
+    height: 50px;
+    background: silver;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
