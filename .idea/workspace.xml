@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="!!!!">
-      <change afterPath="$PROJECT_DIR$/lesson1/images/bart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/lisa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work1">
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson1" />
@@ -59,7 +63,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674122287282</updated>
-      <workItem from="1674122288331" duration="3141000" />
+      <workItem from="1674122288331" duration="4511000" />
+      <workItem from="1674127784827" duration="103000" />
+      <workItem from="1674131491573" duration="121000" />
+      <workItem from="1674307680906" duration="668000" />
+      <workItem from="1674317728092" duration="126000" />
+      <workItem from="1674317857877" duration="182000" />
+      <workItem from="1674319295594" duration="23000" />
+      <workItem from="1674319320721" duration="48000" />
+      <workItem from="1674332118032" duration="10000" />
+      <workItem from="1674332138670" duration="51000" />
+      <workItem from="1674332410381" duration="44000" />
+      <workItem from="1674379811836" duration="1394000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -75,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674122717361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="home work1">
+      <created>1674125556702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674125556702</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="!!!" />
     <MESSAGE value="!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="!!!!" />
+    <MESSAGE value="home work1" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work1" />
   </component>
 </project>
