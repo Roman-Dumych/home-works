@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+
+.BLOCK{
+    display: flex;
+    background: cyan;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.block{
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    background: white;
+
+}
+
+.title{
+
+}
+.text{
+    justify-content: center;
+    align-items: center;
+}
