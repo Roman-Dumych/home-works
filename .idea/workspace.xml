@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work2 &#10;Cards">
-      <change afterPath="$PROJECT_DIR$/lesson2/block.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/block.html" afterDir="false" />
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work2 &#10;12345">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/block.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/block.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,8 @@
       <workItem from="1674404195670" duration="5000" />
       <workItem from="1674404202161" duration="5626000" />
       <workItem from="1674412570889" duration="9614000" />
-      <workItem from="1674451092458" duration="2060000" />
+      <workItem from="1674451092458" duration="2092000" />
+      <workItem from="1674495866030" duration="2636000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674420422572</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="home work2 &#10;12345">
+      <created>1674494700098</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674494700098</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +159,8 @@
     <MESSAGE value="home work2&#10;Зробив першу частину завдання" />
     <MESSAGE value="home work2&#10;Друга частина завдання" />
     <MESSAGE value="home work2 &#10;Cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work2 &#10;Cards" />
+    <MESSAGE value="home work2 &#10;Block" />
+    <MESSAGE value="home work2 &#10;12345" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work2 &#10;12345" />
   </component>
 </project>
