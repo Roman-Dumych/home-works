@@ -18,10 +18,24 @@ body{
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
+    position:relative;
 }
 
 .button{
     border: 1px solid black;
     box-sizing: border-box;
     padding: 10px;
+}
+.icons{
+    border: 1px solid black;
+    background: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -24px;
+    left: 75px;
 }
