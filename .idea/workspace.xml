@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Добавив 3 карточки + 3 іконки">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Part1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Part1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part1/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Зробив першу частину завдання" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KXYF4rBjX6ZGzmT6IF8HOaaEJ6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -87,7 +86,7 @@
       <workItem from="1674510389417" duration="882000" />
       <workItem from="1674654914506" duration="221000" />
       <workItem from="1674657777580" duration="791000" />
-      <workItem from="1674659432109" duration="10526000" />
+      <workItem from="1674659432109" duration="10896000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674674047409</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="home work3&#10;Зробив першу частину завдання">
+      <created>1674677042866</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674677042866</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +206,7 @@
     <MESSAGE value="home work3" />
     <MESSAGE value="home work3&#10;Добавив 3 карточки" />
     <MESSAGE value="home work3&#10;Добавив 3 карточки + 3 іконки" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Добавив 3 карточки + 3 іконки" />
+    <MESSAGE value="home work3&#10;Зробив першу частину завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Зробив першу частину завдання" />
   </component>
 </project>
