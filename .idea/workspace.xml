@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3">
-      <change afterPath="$PROJECT_DIR$/lesson3/Part1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/Part2/index.html" afterDir="false" />
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Добавив 3 карточки + 3 іконки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/Part1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/Part1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Part1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson3/Part1" />
       <recent name="$PROJECT_DIR$/lesson1" />
     </key>
   </component>
@@ -88,7 +87,7 @@
       <workItem from="1674510389417" duration="882000" />
       <workItem from="1674654914506" duration="221000" />
       <workItem from="1674657777580" duration="791000" />
-      <workItem from="1674659432109" duration="5478000" />
+      <workItem from="1674659432109" duration="10526000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -167,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674655127408</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="home work3&#10;Добавив 3 карточки">
+      <created>1674671689581</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674671689581</updated>
+    </task>
+    <task id="LOCAL-00013" summary="home work3&#10;Добавив 3 карточки + 3 іконки">
+      <created>1674674047409</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674674047409</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +198,8 @@
     <MESSAGE value="home work2 &#10;12345" />
     <MESSAGE value="home work2 &#10;Formatted code" />
     <MESSAGE value="home work3" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work3" />
+    <MESSAGE value="home work3&#10;Добавив 3 карточки" />
+    <MESSAGE value="home work3&#10;Добавив 3 карточки + 3 іконки" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Добавив 3 карточки + 3 іконки" />
   </component>
 </project>
