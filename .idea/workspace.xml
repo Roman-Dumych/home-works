@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work2 &#10;12345">
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work2 &#10;Formatted code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/block.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/block.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +80,9 @@
       <workItem from="1674412570889" duration="9614000" />
       <workItem from="1674451092458" duration="2092000" />
       <workItem from="1674495866030" duration="2636000" />
+      <workItem from="1674509338343" duration="29000" />
+      <workItem from="1674509381270" duration="255000" />
+      <workItem from="1674510389417" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674494700098</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="home work2 &#10;Formatted code">
+      <created>1674509505621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674509505621</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="home work2 &#10;Cards" />
     <MESSAGE value="home work2 &#10;Block" />
     <MESSAGE value="home work2 &#10;12345" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work2 &#10;12345" />
+    <MESSAGE value="home work2 &#10;Formatted code" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work2 &#10;Formatted code" />
   </component>
 </project>

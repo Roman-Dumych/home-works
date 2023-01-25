@@ -1,11 +1,12 @@
 body{
-    margin: 0px;
+    margin: 0;
 }
 
 .BLOCK{
     display: flex;
     background: cyan;
-    height: 1000px;
+    width: 100%;
+    height: auto;
     justify-content: center;
     align-items: center;
     margin: 10px;
