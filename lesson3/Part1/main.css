@@ -35,3 +35,7 @@ body{
     top: -80px;
 
 }
+
+.icons {
+    display: flex;
+}
