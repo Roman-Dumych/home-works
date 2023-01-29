@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Зробив першу частину завдання" />
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Вніс зміни, після перевірки завдання ментором">
+      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +90,15 @@
       <workItem from="1674510389417" duration="882000" />
       <workItem from="1674654914506" duration="221000" />
       <workItem from="1674657777580" duration="791000" />
-      <workItem from="1674659432109" duration="10896000" />
+      <workItem from="1674659432109" duration="11226000" />
+      <workItem from="1674687583469" duration="160000" />
+      <workItem from="1674755081923" duration="702000" />
+      <workItem from="1674758702902" duration="403000" />
+      <workItem from="1674760316417" duration="826000" />
+      <workItem from="1674761147824" duration="209000" />
+      <workItem from="1674764184976" duration="459000" />
+      <workItem from="1675013529788" duration="640000" />
+      <workItem from="1675030312642" duration="2111000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -186,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674677042866</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="home work3">
+      <created>1674677332076</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674677332076</updated>
+    </task>
+    <task id="LOCAL-00016" summary="home work3&#10;Вніс зміни, після перевірки завдання ментором">
+      <created>1674761138669</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674761138669</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,10 +229,12 @@
     <MESSAGE value="home work2 &#10;Block" />
     <MESSAGE value="home work2 &#10;12345" />
     <MESSAGE value="home work2 &#10;Formatted code" />
-    <MESSAGE value="home work3" />
     <MESSAGE value="home work3&#10;Добавив 3 карточки" />
     <MESSAGE value="home work3&#10;Добавив 3 карточки + 3 іконки" />
     <MESSAGE value="home work3&#10;Зробив першу частину завдання" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Зробив першу частину завдання" />
+    <MESSAGE value="home work3&#10;Відформатував код" />
+    <MESSAGE value="home work3" />
+    <MESSAGE value="home work3&#10;Вніс зміни, після перевірки завдання ментором" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Вніс зміни, після перевірки завдання ментором" />
   </component>
 </project>
