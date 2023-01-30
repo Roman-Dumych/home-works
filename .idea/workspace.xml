@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work3&#10;Вніс зміни, після перевірки завдання ментором">
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,9 @@
       <workItem from="1674761147824" duration="209000" />
       <workItem from="1674764184976" duration="459000" />
       <workItem from="1675013529788" duration="640000" />
-      <workItem from="1675030312642" duration="2111000" />
+      <workItem from="1675030312642" duration="2340000" />
+      <workItem from="1675098720759" duration="8000" />
+      <workItem from="1675098736372" duration="499000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674761138669</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="home work4">
+      <created>1675032706995</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675032706995</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +243,7 @@
     <MESSAGE value="home work3&#10;Відформатував код" />
     <MESSAGE value="home work3" />
     <MESSAGE value="home work3&#10;Вніс зміни, після перевірки завдання ментором" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work3&#10;Вніс зміни, після перевірки завдання ментором" />
+    <MESSAGE value="home work4" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work4" />
   </component>
 </project>
