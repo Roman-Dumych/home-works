@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work4">
+    <list default="true" id="3cec1b63-9ad2-48d7-b5d1-fe7fd8a57014" name="Changes" comment="home work4&#10;Перша частина завдання">
+      <change afterPath="$PROJECT_DIR$/lesson4/Part2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/Part2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Part1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Part1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/Part1" />
       <recent name="$PROJECT_DIR$/lesson3/Part1" />
       <recent name="$PROJECT_DIR$/lesson1" />
     </key>
@@ -99,7 +103,8 @@
       <workItem from="1675013529788" duration="640000" />
       <workItem from="1675030312642" duration="2340000" />
       <workItem from="1675098720759" duration="8000" />
-      <workItem from="1675098736372" duration="499000" />
+      <workItem from="1675098736372" duration="1184000" />
+      <workItem from="1675107267478" duration="8968000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1674122365652</created>
@@ -220,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675032706995</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="home work4&#10;Перша частина завдання">
+      <created>1675099447584</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675099447584</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +256,7 @@
     <MESSAGE value="home work3" />
     <MESSAGE value="home work3&#10;Вніс зміни, після перевірки завдання ментором" />
     <MESSAGE value="home work4" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work4" />
+    <MESSAGE value="home work4&#10;Перша частина завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work4&#10;Перша частина завдання" />
   </component>
 </project>
